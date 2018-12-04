@@ -109,7 +109,7 @@
             "header": [
               {
                 "key": "Authorization",
-                "value": "Digest username=\"postman\", realm=\"Users\", nonce=\"ni1LiL0O37PRRhofWdCLmwFsnEtH1lew\", uri=\"/digest-auth\", response=\"254679099562cf07df9b6f5d8d15db44\", opaque=\"\""
+                "value": "Digest username=\"postman\", realm=\"Users\", nonce=\"0mtMnLdEI8DFjdLwogeR54Z13DoRZBa0\", uri=\"/digest-auth\", response=\"91ede0cda82f5c1afb8f6cecc84426f5\", opaque=\"\""
               }
             ],
             "body": {},
