@@ -577,8 +577,7 @@
           ],
           "responseMessages": [],
           "uniqueItems": false,
-          "type": "string",
-          "format": "date-time"
+          "type": "string"
         }
       ]
     },
@@ -598,8 +597,7 @@
               "allowMultiple": false,
               "defaultValue": "",
               "uniqueItems": false,
-              "type": "string",
-              "format": "date-time"
+              "type": "string"
             }
           ],
           "produces": [
@@ -627,8 +625,7 @@
               "allowMultiple": false,
               "defaultValue": "",
               "uniqueItems": false,
-              "type": "string",
-              "format": "date-time"
+              "type": "string"
             },
             {
               "name": "format",
@@ -665,8 +662,7 @@
               "allowMultiple": false,
               "defaultValue": "",
               "uniqueItems": false,
-              "type": "string",
-              "format": "date-time"
+              "type": "string"
             },
             {
               "name": "unit",
@@ -703,8 +699,7 @@
               "allowMultiple": false,
               "defaultValue": "",
               "uniqueItems": false,
-              "type": "string",
-              "format": "date-time"
+              "type": "string"
             },
             {
               "name": "years",
@@ -742,8 +737,7 @@
               "allowMultiple": false,
               "defaultValue": "",
               "uniqueItems": false,
-              "type": "string",
-              "format": "date-time"
+              "type": "string"
             },
             {
               "name": "years",
@@ -781,8 +775,7 @@
               "allowMultiple": false,
               "defaultValue": "",
               "uniqueItems": false,
-              "type": "string",
-              "format": "date-time"
+              "type": "string"
             },
             {
               "name": "unit",
@@ -814,8 +807,7 @@
               "allowMultiple": false,
               "defaultValue": "",
               "uniqueItems": false,
-              "type": "string",
-              "format": "date-time"
+              "type": "string"
             },
             {
               "name": "unit",
@@ -852,8 +844,7 @@
               "allowMultiple": false,
               "defaultValue": "",
               "uniqueItems": false,
-              "type": "string",
-              "format": "date-time"
+              "type": "string"
             },
             {
               "name": "target",
@@ -863,8 +854,7 @@
               "allowMultiple": false,
               "defaultValue": "",
               "uniqueItems": false,
-              "type": "string",
-              "format": "date-time"
+              "type": "string"
             }
           ],
           "produces": [
@@ -891,8 +881,7 @@
               "allowMultiple": false,
               "defaultValue": "",
               "uniqueItems": false,
-              "type": "string",
-              "format": "date-time"
+              "type": "string"
             },
             {
               "name": "target",
@@ -902,8 +891,7 @@
               "allowMultiple": false,
               "defaultValue": "",
               "uniqueItems": false,
-              "type": "string",
-              "format": "date-time"
+              "type": "string"
             }
           ],
           "produces": [
@@ -930,8 +918,7 @@
               "allowMultiple": false,
               "defaultValue": "",
               "uniqueItems": false,
-              "type": "string",
-              "format": "date-time"
+              "type": "string"
             },
             {
               "name": "start",
@@ -941,8 +928,7 @@
               "allowMultiple": false,
               "defaultValue": "",
               "uniqueItems": false,
-              "type": "string",
-              "format": "date-time"
+              "type": "string"
             },
             {
               "name": "end",
@@ -952,8 +938,7 @@
               "allowMultiple": false,
               "defaultValue": "",
               "uniqueItems": false,
-              "type": "string",
-              "format": "date-time"
+              "type": "string"
             }
           ],
           "produces": [
@@ -980,8 +965,7 @@
               "allowMultiple": false,
               "defaultValue": "",
               "uniqueItems": false,
-              "type": "string",
-              "format": "date-time"
+              "type": "string"
             }
           ],
           "produces": [
