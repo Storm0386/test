@@ -1087,7 +1087,7 @@
         {
           "method": "GET",
           "summary": "TODO: Add Description",
-          "nickname": "UnnammedEndpoint_GET",
+          "nickname": "Request",
           "parameters": [],
           "produces": [
             "application/json"
