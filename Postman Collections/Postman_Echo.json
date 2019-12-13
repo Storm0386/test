@@ -1082,7 +1082,7 @@
       ]
     },
     {
-      "path": "//",
+      "path": "/",
       "operations": [
         {
           "method": "GET",
