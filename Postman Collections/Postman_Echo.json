@@ -971,7 +971,6 @@
       "operations": [
         {
           "method": "POST",
-          "summary": "TODO: Add Description",
           "nickname": "Transformcollectionfromformatv1tov2",
           "parameters": [
             {
@@ -1026,7 +1025,6 @@
         },
         {
           "method": "POST",
-          "summary": "TODO: Add Description",
           "nickname": "Transformcollectionfromformatv2tov1",
           "parameters": [
             {
@@ -1086,7 +1084,6 @@
       "operations": [
         {
           "method": "GET",
-          "summary": "TODO: Add Description",
           "nickname": "Request",
           "parameters": [],
           "produces": [
