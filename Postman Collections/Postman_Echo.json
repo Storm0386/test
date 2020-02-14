@@ -319,6 +319,9 @@
           "produces": [
             "application/json"
           ],
+          "consumes": [
+            "text/plain"
+          ],
           "responseMessages": [],
           "uniqueItems": false
         },
@@ -1019,6 +1022,9 @@
           "produces": [
             "application/json; charset=utf-8"
           ],
+          "consumes": [
+            "application/json"
+          ],
           "responseMessages": [],
           "uniqueItems": false,
           "$ref": "Samplev2Response"
@@ -1072,6 +1078,9 @@
           ],
           "produces": [
             "application/json; charset=utf-8"
+          ],
+          "consumes": [
+            "application/json"
           ],
           "responseMessages": [],
           "uniqueItems": false,
