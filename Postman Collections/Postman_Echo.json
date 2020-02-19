@@ -39,7 +39,7 @@
           ],
           "responseMessages": [],
           "uniqueItems": false,
-          "$ref": "200"
+          "$ref": "m200"
         }
       ]
     },
@@ -56,7 +56,7 @@
           ],
           "responseMessages": [],
           "uniqueItems": false,
-          "$ref": "200"
+          "$ref": "m200"
         }
       ]
     },
@@ -74,12 +74,12 @@
           "responseMessages": [
             {
               "code": 401,
-              "responseModel": "401",
+              "responseModel": "m401",
               "message": "Unauthorized"
             }
           ],
           "uniqueItems": false,
-          "$ref": "2002"
+          "$ref": "m2002"
         }
       ]
     },
@@ -456,7 +456,7 @@
           ],
           "responseMessages": [],
           "uniqueItems": false,
-          "$ref": "2003"
+          "$ref": "m2003"
         }
       ]
     },
@@ -1105,8 +1105,8 @@
     }
   ],
   "models": {
-    "200": {
-      "id": "200",
+    "m200": {
+      "id": "m200",
       "required": [
         "authenticated"
       ],
@@ -1119,8 +1119,8 @@
         }
       }
     },
-    "2002": {
-      "id": "2002",
+    "m2002": {
+      "id": "m2002",
       "required": [
         "status",
         "message"
@@ -1140,8 +1140,8 @@
         }
       }
     },
-    "401": {
-      "id": "401",
+    "m401": {
+      "id": "m401",
       "required": [
         "status",
         "message",
@@ -1399,8 +1399,8 @@
         }
       }
     },
-    "2003": {
-      "id": "2003",
+    "m2003": {
+      "id": "m2003",
       "required": [
         "status"
       ],
