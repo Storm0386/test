@@ -15,7 +15,8 @@
             "application/json"
           ],
           "responseMessages": [],
-          "uniqueItems": false
+          "uniqueItems": false,
+          "type": "void"
         },
         {
           "method": "GET",
@@ -283,7 +284,8 @@
             "application/json"
           ],
           "responseMessages": [],
-          "uniqueItems": false
+          "uniqueItems": false,
+          "type": "void"
         }
       ]
     },
@@ -323,7 +325,8 @@
             "text/plain"
           ],
           "responseMessages": [],
-          "uniqueItems": false
+          "uniqueItems": false,
+          "type": "void"
         },
         {
           "method": "POST",
@@ -358,7 +361,8 @@
             "application/x-www-form-urlencoded"
           ],
           "responseMessages": [],
-          "uniqueItems": false
+          "uniqueItems": false,
+          "type": "void"
         }
       ]
     },
@@ -385,7 +389,8 @@
             "application/json"
           ],
           "responseMessages": [],
-          "uniqueItems": false
+          "uniqueItems": false,
+          "type": "void"
         }
       ]
     },
@@ -412,7 +417,8 @@
             "application/json"
           ],
           "responseMessages": [],
-          "uniqueItems": false
+          "uniqueItems": false,
+          "type": "void"
         }
       ]
     },
@@ -439,7 +445,8 @@
             "application/json"
           ],
           "responseMessages": [],
-          "uniqueItems": false
+          "uniqueItems": false,
+          "type": "void"
         }
       ]
     },
@@ -472,7 +479,8 @@
             "application/json"
           ],
           "responseMessages": [],
-          "uniqueItems": false
+          "uniqueItems": false,
+          "type": "void"
         }
       ]
     },
@@ -505,7 +513,8 @@
             "application/json"
           ],
           "responseMessages": [],
-          "uniqueItems": false
+          "uniqueItems": false,
+          "type": "void"
         }
       ]
     },
@@ -521,7 +530,8 @@
             "application/json"
           ],
           "responseMessages": [],
-          "uniqueItems": false
+          "uniqueItems": false,
+          "type": "void"
         }
       ]
     },
@@ -537,7 +547,8 @@
             "application/json"
           ],
           "responseMessages": [],
-          "uniqueItems": false
+          "uniqueItems": false,
+          "type": "void"
         }
       ]
     },
@@ -553,7 +564,8 @@
             "application/json"
           ],
           "responseMessages": [],
-          "uniqueItems": false
+          "uniqueItems": false,
+          "type": "void"
         }
       ]
     },
@@ -635,7 +647,8 @@
             "application/json"
           ],
           "responseMessages": [],
-          "uniqueItems": false
+          "uniqueItems": false,
+          "type": "void"
         }
       ]
     },
@@ -672,7 +685,8 @@
             "application/json"
           ],
           "responseMessages": [],
-          "uniqueItems": false
+          "uniqueItems": false,
+          "type": "void"
         }
       ]
     },
@@ -710,7 +724,8 @@
             "application/json"
           ],
           "responseMessages": [],
-          "uniqueItems": false
+          "uniqueItems": false,
+          "type": "void"
         }
       ]
     },
@@ -748,7 +763,8 @@
             "application/json"
           ],
           "responseMessages": [],
-          "uniqueItems": false
+          "uniqueItems": false,
+          "type": "void"
         }
       ]
     },
@@ -785,7 +801,8 @@
             "application/json"
           ],
           "responseMessages": [],
-          "uniqueItems": false
+          "uniqueItems": false,
+          "type": "void"
         },
         {
           "method": "GET",
@@ -817,7 +834,8 @@
             "application/json"
           ],
           "responseMessages": [],
-          "uniqueItems": false
+          "uniqueItems": false,
+          "type": "void"
         }
       ]
     },
@@ -854,7 +872,8 @@
             "application/json"
           ],
           "responseMessages": [],
-          "uniqueItems": false
+          "uniqueItems": false,
+          "type": "void"
         }
       ]
     },
@@ -891,7 +910,8 @@
             "application/json"
           ],
           "responseMessages": [],
-          "uniqueItems": false
+          "uniqueItems": false,
+          "type": "void"
         }
       ]
     },
@@ -938,7 +958,8 @@
             "application/json"
           ],
           "responseMessages": [],
-          "uniqueItems": false
+          "uniqueItems": false,
+          "type": "void"
         }
       ]
     },
@@ -965,7 +986,8 @@
             "application/json"
           ],
           "responseMessages": [],
-          "uniqueItems": false
+          "uniqueItems": false,
+          "type": "void"
         }
       ]
     },
@@ -1099,7 +1121,8 @@
             "application/json"
           ],
           "responseMessages": [],
-          "uniqueItems": false
+          "uniqueItems": false,
+          "type": "void"
         }
       ]
     }
