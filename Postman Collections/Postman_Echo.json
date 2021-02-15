@@ -75,7 +75,7 @@
           "responseMessages": [
             {
               "code": 401,
-              "responseModel": "m401",
+              "responseModel": "m4011",
               "message": "Unauthorized"
             }
           ],
@@ -1163,8 +1163,8 @@
         }
       }
     },
-    "m401": {
-      "id": "m401",
+    "m4011": {
+      "id": "m4011",
       "required": [
         "status",
         "message",
