@@ -1467,6 +1467,20 @@
         }
       }
     },
+    "ValidTimestamp": {
+      "id": "ValidTimestamp",
+      "required": [
+        "valid"
+      ],
+      "properties": {
+        "valid": {
+          "description": "",
+          "defaultValue": "",
+          "uniqueItems": false,
+          "type": "boolean"
+        }
+      }
+    },
     "Transformcollectionfromformatv1tov2Request": {
       "id": "Transformcollectionfromformatv1tov2Request",
       "required": [
