@@ -1839,6 +1839,34 @@
         }
       }
     },
+    "Header1": {
+      "id": "Header1",
+      "required": [
+        "key",
+        "value",
+        "description"
+      ],
+      "properties": {
+        "key": {
+          "description": "",
+          "defaultValue": "",
+          "uniqueItems": false,
+          "type": "string"
+        },
+        "value": {
+          "description": "",
+          "defaultValue": "",
+          "uniqueItems": false,
+          "type": "string"
+        },
+        "description": {
+          "description": "",
+          "defaultValue": "",
+          "uniqueItems": false,
+          "type": "string"
+        }
+      }
+    },
     "Body": {
       "id": "Body",
       "required": [
@@ -1964,7 +1992,7 @@
         "header": {
           "description": "",
           "items": {
-            "$ref": "Header1"
+            "$ref": "Header3"
           },
           "defaultValue": "",
           "uniqueItems": false,
@@ -1978,8 +2006,8 @@
         }
       }
     },
-    "Header1": {
-      "id": "Header1",
+    "Header3": {
+      "id": "Header3",
       "required": [
         "key",
         "value"
