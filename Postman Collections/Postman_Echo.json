@@ -303,7 +303,7 @@
               "paramType": "header",
               "required": true,
               "allowMultiple": false,
-              "defaultValue": "",
+              "defaultValue": "text/plain",
               "uniqueItems": false,
               "type": "string"
             },
@@ -339,7 +339,7 @@
               "paramType": "header",
               "required": true,
               "allowMultiple": false,
-              "defaultValue": "",
+              "defaultValue": "application/x-www-form-urlencoded",
               "uniqueItems": false,
               "type": "string"
             },
@@ -1026,7 +1026,7 @@
               "paramType": "header",
               "required": true,
               "allowMultiple": false,
-              "defaultValue": "",
+              "defaultValue": "application/json",
               "uniqueItems": false,
               "type": "string"
             },
@@ -1083,7 +1083,7 @@
               "paramType": "header",
               "required": true,
               "allowMultiple": false,
-              "defaultValue": "",
+              "defaultValue": "application/json",
               "uniqueItems": false,
               "type": "string"
             },
